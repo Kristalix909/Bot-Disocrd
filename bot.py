@@ -32,7 +32,7 @@ uzbek_words = [ 'salom', 'qalaysilar?', 'nagap', 'nimagap', 'salom bolla' ]
 
 godd_uzbek = [ 'bopdi man ketdim', 'bopdi', 'xayr', 'hayr', 'boladi bolla man ketdim', 'man ketivoman']
 
-bad_uzbek = [ 'suka','dalboyeb','jalap', 'onangi skey','Zaybal','Dnx','kunta','pidaraz','dalbayob','suka tvar','suka tvarog','ke naxxuy','idi naxxuy','sikaman','kutingni yirtaman','ux blya','blya','qisib tur','sikvording','pashol naxxuy','ket naxxuy','kutingni yirtaman','itaraman','+18','kut', 'onangi skiy', 'onangi skin', 'jala', 'opangi skey', 'opangi skiy', 'opangi skin', 'foxisha', 'amcha' ]
+
 
 @bot.event
 
